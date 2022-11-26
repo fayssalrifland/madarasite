@@ -1,0 +1,6 @@
+2022-11-26T15:07:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\madarasite\wp-admin\includes\media.php on line 3846
+
+2022-11-26T19:16:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\madarasite\wp-content\plugins\elementor-pro\modules\theme-elements\widgets\post-info.php on line 11
+
+2022-11-26T19:16:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\madarasite\wp-content\plugins\elementor-pro\modules\woocommerce\widgets\product-meta.php on line 8
+
